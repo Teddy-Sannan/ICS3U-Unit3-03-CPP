@@ -27,7 +27,7 @@ int main() {
     }
 
     // process
-    if (guess != number) {
+    else {
         // output
         std::cout << "" << std::endl;
         std::cout << "Sorry. Better luck next time." << std::endl;
